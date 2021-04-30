@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dompurify": "^2.0.0"
+    "dompurify": "^2.0.3"
   }
 }
